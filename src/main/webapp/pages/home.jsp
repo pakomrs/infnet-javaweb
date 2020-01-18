@@ -34,7 +34,7 @@
 								
 								<img class="mb-1" alt="Cart" src="<c:url value='img/cart.png' /> " height="140" width="180px">
 								
-								<a href="#" class="btn btn-success">Visitar</a>
+								<a href="<c:url value='/ComprasSrv' /> " height="140" width="180px"" class="btn btn-success">Visitar</a>
 							</div>
 						</div>
 					</div>
