@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-Home
+
+<jsp:include page="templates/header.jsp"></jsp:include>
+
+${sessionScope.user}
+
 
 </body>
 </html>
